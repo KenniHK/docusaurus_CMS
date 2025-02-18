@@ -1,11 +1,11 @@
 backend:
   name: github
-  repo: KenniHK/docusaurus_CMS
+  repo: KenniHK/my-docs
   branch: main
 
 
 media_folder: "static/img"
-public_folder: "/img"
+public_folder: "/img/"
 
 collections:
   - name: "docs"
