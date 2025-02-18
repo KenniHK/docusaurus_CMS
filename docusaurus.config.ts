@@ -138,6 +138,8 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+
+  scripts: ["https://identity.netlify.com/v1/netlify-identity-widget.js"],
 };
 
 export default config;
