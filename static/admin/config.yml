@@ -3,7 +3,7 @@ backend:
   branch: main
   repo: KenniHK/docusaurus_CMS
   
-
+site_url: https://frabjous-strudel-16bbe9.netlify.app
 
 media_folder: "static/img"
 public_folder: "/img/"
