@@ -7,19 +7,8 @@
   </head>
   <body>
     <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", (user) => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
+      CMS.init();
     </script>
    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-    <button onclick="netlifyIdentity.open()">Login</button>
-    <button onclick="netlifyIdentity.logout()">Logout</button>
-
   </body>
 </html>
