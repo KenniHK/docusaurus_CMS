@@ -50,12 +50,6 @@ collections:
       label: Body
       widget: markdown
       default: |
-        ---
-        title: "Default Title"
-        slug: "default-slug"
-        sidebar_label: "Default Sidebar Label"
-        ---
-
         ## Pendahuluan
        
         Tambahkan deskripsi dokumen di sini...
