@@ -8,6 +8,24 @@ site_url: https://frabjous-strudel-16bbe9.netlify.app
 media_folder: "static/img"
 public_folder: "/img/"
 
+editor_components:
+- name: "post_template"
+  label: "Post Template"
+  widget: "markdown"
+  fields:
+  - name: "content"
+    label: "Content"
+    widget: "text"
+    defaults: |
+    # Judul Post APA YA??
+
+    - penulis:
+    - Tanggal:
+
+    ## ISI APA YAA??
+
+    Ini APA YAAA
+
 collections:
 - name: blog
   label: "blog"
@@ -48,5 +66,8 @@ collections:
     - { name: body, label: Body, widget: markdown }
     - { name: slug, label: Slug, widget: string }
     - { name: sidebar_label, label: Sidebar Label, widget: string }
+
+
+
     
 
