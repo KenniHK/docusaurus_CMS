@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main
   repo: KenniHK/docusaurus_CMS
-  
+ 
 site_url: https://frabjous-strudel-16bbe9.netlify.app
 
 media_folder: "static/img"
@@ -16,7 +16,7 @@ collections:
   extension: md
   widget: "list"
   create: true
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}" 
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
   fields:
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
@@ -32,7 +32,6 @@ collections:
         - { name: title, label: Title, widget: string }
         - { name: url, label: URL, widget: string }
         - { name: imageUrl, label: ImageURL, widget: string }
-
 
 # Collection untuk docs
 - name: docs
@@ -50,27 +49,21 @@ collections:
     - name: body
       label: Body
       widget: markdown
-      default: >
-      ---
-      title: "{{title}}"
-      slug: "{{slug}}"
-      sidebar_label: "{{sidebar_label}}"
-      ---
+      default: |
+        ---
+        title: "Default Title"
+        slug: "default-slug"
+        sidebar_label: "Default Sidebar Label"
+        ---
 
-      ## APAA YAAA
+        ## Pendahuluan
+       
+        Tambahkan deskripsi dokumen di sini...
 
-      Tambahkan APA YAAA
+        ## Bagian 1
+       
+        Isi dari bagian pertama...
 
-      ## Bagian 1
-
-      Isi APAA YAAA
-
-
-      ## Bagian 2
-
-
-
-
-
-    
-
+        ## Bagian 2
+       
+        Isi dari bagian kedua...
