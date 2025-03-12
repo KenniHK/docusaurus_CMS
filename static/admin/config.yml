@@ -50,14 +50,20 @@ collections:
       label: Body
       widget: markdown
       default: |
-        ## Pendahuluan
-       
-        Tambahkan deskripsi dokumen di sini...
+        # Version
+        **Release Date** :
 
-        ## Bagian 1
-       
-        Isi dari bagian pertama...
+        
+        ## What's New In Version
 
-        ## Bagian 2
+        
+        
+        ## ⭐ New Features  
        
-        Isi dari bagian kedua...
+        
+
+        ## 🛠️ Improvements 
+       
+        
+
+        ## 🕷️ Bug Fixes 
