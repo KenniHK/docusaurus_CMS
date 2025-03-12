@@ -50,7 +50,7 @@ collections:
     - name: body
       label: Body
       widget: markdown
-      default: |
+      default: >
       ---
       title: "{{title}}"
       slug: "{{slug}}"
@@ -68,7 +68,7 @@ collections:
 
       ## Bagian 2
 
-      
+
 
 
 
