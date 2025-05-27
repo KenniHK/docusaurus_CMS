@@ -1,6 +1,6 @@
 ---
-title: JENG JENG
-slug: JENG JENG
+title: Tralalelo
+slug: Tralala
 sidebar_label: TES JENG JENG
 ---
 
