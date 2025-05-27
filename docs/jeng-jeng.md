@@ -1,7 +1,7 @@
 ---
 title: Tralalelo
 slug: Tralala
-sidebar_label: TES JENG JENG
+sidebar_label: Simpansini Bananini
 ---
 
 
