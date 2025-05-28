@@ -22,7 +22,8 @@ sidebar_label: "Default Sidebar Label"
 
 1. *qqwqwzds*
 
-## Bagian 1sadad
+## Testing gambar assasino capucino
+![assasino.png](https://raw.githubusercontent.com/KenniHK/docusaurus_CMS/main/static/img/assasino.png)
 
 Isi dari bagian pertama. efefca
 
