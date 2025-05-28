@@ -8,6 +8,7 @@ sidebar_label: whatsnew
 **Release Date** : 010101
 
 ## Tung Tung Tung Sahurrr
+![docusaurus-logo.png](https://raw.githubusercontent.com/KenniHK/docusaurus_CMS/main/static/img/docusaurus-logo.png)
 
 sdsdas
 
