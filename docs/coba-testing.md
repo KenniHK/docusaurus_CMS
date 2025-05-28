@@ -1,5 +1,6 @@
 ---
 title: Assasino Cappucino
+![assasino.png](https://raw.githubusercontent.com/KenniHK/docusaurus_CMS/main/static/img/assasino.png)
 slug: COba Testing
 sidebar_label: COBA TeESSSSSSSS
 ---
