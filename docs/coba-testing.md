@@ -27,6 +27,6 @@ sidebar_label: "Default Sidebar Label"
 
 Isi dari bagian pertama. efefca
 
-## Update Cappucino error netlify
+## Update Cappucino error di netlify
 
 Isi dari bagian kedua.. sdff
