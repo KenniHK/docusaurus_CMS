@@ -29,6 +29,7 @@ _if
 _sjdsda
 
 ## 🕷️ Bug Fixes
+![assasino.png](https://raw.githubusercontent.com/KenniHK/docusaurus_CMS/main/static/img/assasino.png)
 
 \- oalals
 
