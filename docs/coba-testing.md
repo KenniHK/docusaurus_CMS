@@ -27,6 +27,6 @@ sidebar_label: "Default Sidebar Label"
 
 Isi dari bagian pertama. efefca
 
-## Bagian 2asda
+## Update Cappucino
 
 Isi dari bagian kedua.. sdff
