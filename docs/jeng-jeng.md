@@ -75,16 +75,19 @@ DANGER
 
 
 
-:::tabs
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem';
 
-@tab Testing Tab 1 Apple
-Apple
+<Tabs>
+ <TabItem value="apple" label="Apple" default>
+      Ini apple
+      </TabItem>
+ <TabItem value="banana" label="Banana">
+      Ini banana
+      </TabItem>
+ <TabItem value="melon" label="Melon">
+      ini melon
+      </TabItem>
+</Tabs>
 
-@tab Testing Tab 2 Banana
-Banana
-
-@tab Testing Tab 3 Orange
-Orange
-
-:::
 
