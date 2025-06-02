@@ -33,4 +33,30 @@ print('The solution are {0} and {1}'.format(sol1,sol2))
 ```
 
 
+![tesSS.png](https://raw.githubusercontent.com/KenniHK/docusaurus_CMS/main/static/img/tesSS.png)
+
+
+```javascript
+// program to find the sum of natural numbers using recursion
+
+function sum(num) {
+    if(num > 0) {
+        return num + sum(num - 1);
+    }
+    else {
+        return num;
+    }
+ }
+
+// take input from the user
+const number = parseInt(prompt('Enter a positive integer: '));
+
+const result = sum(number);
+
+// display the result
+console.log(`The sum is ${result}`);
+```
+
+
+
 
