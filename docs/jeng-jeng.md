@@ -75,3 +75,16 @@ DANGER
 
 
 
+:::tabs
+
+@tab Testing Tab 1 Apple
+Apple
+
+@tab Testing Tab 2 Banana
+Banana
+
+@tab Testing Tab 3 Orange
+Orange
+
+:::
+
