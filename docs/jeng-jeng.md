@@ -57,7 +57,7 @@ const result = sum(number);
 console.log(`The sum is ${result}`);
 ```
 
-
+```
 <Tabs>
   <TabItem value="apple" label="Apple" default>
     This is an apple 🍎
@@ -69,5 +69,6 @@ console.log(`The sum is ${result}`);
     This is a banana 🍌
   </TabItem>
 </Tabs>
+```
 
 
