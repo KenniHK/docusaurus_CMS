@@ -33,3 +33,20 @@ print(type(obj_triangle) == Polygon)    	# false
 print(isinstance(obj_polygon, Polygon)) 	# true
 print(isinstance(obj_triangle, Polygon))
 ```
+
+
+import Tabs from '@theme/Tabs'; 
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+ <TabItem value="ascasc" label="sxasx" default>
+      ascac
+      </TabItem>
+ <TabItem value="ascas" label="saxa">
+      ascasc
+      </TabItem>
+ <TabItem value="scsac" label="sacasc">
+      scsacas
+      </TabItem>
+</Tabs>
+
