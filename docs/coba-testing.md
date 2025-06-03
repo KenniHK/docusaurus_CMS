@@ -1,6 +1,6 @@
 **Test Bold**
 
-___Test Italic___
+T*es*t I*tali*c
 
 ## Test Heading
 
