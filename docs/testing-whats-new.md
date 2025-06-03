@@ -39,14 +39,18 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
- <TabItem value="ascasc" label="sxasx" default>
-      ascac
+ <TabItem value="qwdqwd" label="qdqwd" default>
+      qwdqwd
       </TabItem>
- <TabItem value="ascas" label="saxa">
-      ascasc
+ <TabItem value="dwqdqw" label="dwqdqwd">
+      wdqw
       </TabItem>
- <TabItem value="scsac" label="sacasc">
-      scsacas
+ <TabItem value="wefewf" label="rgwef">
+      wefewf
+      </TabItem>
+ <TabItem value="efewf" label="efwefew">
+      wefewfewcew
       </TabItem>
 </Tabs>
+
 
