@@ -13,28 +13,6 @@ List :
 
 ![pod.png](https://raw.githubusercontent.com/KenniHK/docusaurus_CMS/main/static/img/pod.png)
 
-Snippet Code :
-
-```python
-class Polygon:
-    def sides_no(self):
-        pass
-
-class Triangle(Polygon):
-    def area(self):
-        pass
-
-obj_polygon = Polygon()
-obj_triangle = Triangle()
-
-print(type(obj_triangle) == Triangle)   	# true
-print(type(obj_triangle) == Polygon)    	# false
-
-print(isinstance(obj_polygon, Polygon)) 	# true
-print(isinstance(obj_triangle, Polygon))	# true
-```
-
-
 Testing Tab :
 import Tabs from '@theme/Tabs'; 
 import TabItem from '@theme/TabItem';
