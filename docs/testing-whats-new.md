@@ -39,18 +39,37 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
- <TabItem value="qwdqwd" label="qdqwd" default>
-      qwdqwd
+ <TabItem value="wf34ef" label="sdad" default>
+      cdscds
       </TabItem>
- <TabItem value="dwqdqw" label="dwqdqwd">
-      wdqw
+ <TabItem value="dsqw" label="efewfew">
+      sqdcg12
       </TabItem>
- <TabItem value="wefewf" label="rgwef">
-      wefewf
+ <TabItem value="24e2drf" label="123124">
+      wecverv
       </TabItem>
- <TabItem value="efewf" label="efwefew">
-      wefewfewcew
+ <TabItem value="dscsvsfvrt" label="21321edwf">
+      sdvr
+      </TabItem>
+ <TabItem value="yr4na" label="fgytkyumn">
+      rwbfe n et
       </TabItem>
 </Tabs>
 
+
+
+
+:::note Judul Note
+sacavsvsrvr
+::::
+
+
+:::warning Warn Test
+Test Warn Admonition
+::::
+
+
+:::danger DSDssd
+adeff 13432
+::::
 
